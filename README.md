@@ -60,27 +60,6 @@ All the following APIs have free no-commercial API calls. Subscribe to the follo
 *   [IPSTACK](https://ipstack.com/signup/free): API for current location.
 
 
-**For Contribution**:
-```bash
-git clone https://github.com/ggeop/Jarvis.git --branch develop
-```
-
-*   Change working directory
-```bash
-cd Jarvis
-```
-*   Setup Jarvis and system dependencies:
-```bash
-bash setup.sh
-```
-
-*   Put the Keys in settings
-
-**NOTE:** *For better experience, before you start the application you can put the free KEYs in the settings.py*
-
-```bash
-nano Jarvis/src/jarvis/jarvis/setting.py
-```
 
 ### Start voice commanding assistant
 ![alt text](https://github.com/ggeop/Jarvis/blob/master/imgs/Jarvis_printscreen.PNG)
