@@ -12,7 +12,7 @@ It can recognize human speech, talk to user and execute basic commands.
 #### Requirements
 
 * Operation system: **Ubuntu 20.04 (Focal Fossa)**
-* Python Version: **3.8.x**
+  
 
 
 #### Assistant Skills 
@@ -116,37 +116,7 @@ In the following example he have a dimensional space with three skills.
 The user input analyzed in this space and by using a similarity metric (e.g cosine) we find the most similar skill.
 ![alt text](https://github.com/ggeop/Jarvis/blob/master/imgs/skill_space_desicion.png)
 
----
 
-## Contributing
-* Pull Requests (PRs) are welcome :relaxed:
-* The process for contribution is the following:
-    * Clone the project
-    * Checkout `develop` branch and create a feature branch e.g `feature_branch`
-    * Open a PR to `develop`
-    * Wait for review and approval !!
-    * `master` branch update and release is automated via [Travis CI/CD](https://app.travis-ci.com/github/ggeop/Python-ai-assistant)
-* Try to follow PEP-8 guidelines and add useful comments!
 
-## CI/CD Flow
-![alt text](https://github.com/ggeop/Python-ai-assistant/blob/master/imgs/TravisFlow.png)
-
-## 🔗 Related Projects
-
-If you enjoy this virtual assistant, you might also be interested in my other AI-powered project: [DataDialogue](https://github.com/ggeop/DataDialogueLLM)
-
-Transform the way you interact with databases through natural conversations! DataDialogue enables anyone to:
-
-- 💬 **Query databases using natural language**
-- 📊 **Get instant data visualizations**
-- 🔍 **Explore data without SQL knowledge**
-- 🤝 **Bridge the gap between data and business users**
-
-<div align="center">
-<div style="position: relative; display: inline-block; width: fit-content;">
-  <a href="https://www.youtube.com/watch?v=breOr5o7r3Y" style="text-decoration: none;">
-    <img src="https://github.com/ggeop/DataDialogueLLM/blob/main/media/imgs/data_dialogue_agent_responses.png" alt="DataDialogue Demo" width="600" style="display: block; border-radius: 8px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);"/>
-  </a>
-</div>
 </div>
 
